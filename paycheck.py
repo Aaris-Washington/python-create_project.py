@@ -1,5 +1,5 @@
-# Name:
-# Date:
+# Name: Aaris Washington
+# Date: 9/17/2026
 # Course: COMP 163
 # Project 1: Paycheck Calculator
 
