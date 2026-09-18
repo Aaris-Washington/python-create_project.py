@@ -19,7 +19,7 @@ Tax_rate_percent = float(input("Enter tax rate as a percent: "))
 gross pay     = hours worked * hourly rate
 tax withheld  = gross pay * (tax rate / 100)
 net pay       = gross pay - tax withheld
-#
+
 # Then print the four required output lines.
 # The exact format is in README.md. Match it exactly or the tests will fail.
 print(f"(Employee: {Employee_name}")
